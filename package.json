@@ -20,4 +20,23 @@
   "dependencies": {
     "@vercel/analytics": "^2.0.1"
   }
+  "name": "al-mamourah-net",
+  "version": "1.0.0",
+  "description": "Al-Mamourah International Group - Aviation Security Services Website",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step required for static HTML site'",
+    "postinstall": "echo 'Dependencies installed successfully'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "aviation-security",
+    "saudi-arabia",
+    "al-mamourah"
+  ],
+  "author": "Al-Mamourah International Group",
+  "license": "UNLICENSED"
 }
