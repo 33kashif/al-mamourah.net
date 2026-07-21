@@ -1,4 +1,25 @@
 {
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "official website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/33kashif/al-mamourah.net.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/33kashif/al-mamourah.net/issues"
+  },
+  "homepage": "https://github.com/33kashif/al-mamourah.net#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
   "name": "al-mamourah-net",
   "version": "1.0.0",
   "description": "Al-Mamourah International Group - Aviation Security Services Website",
