@@ -338,7 +338,7 @@ nav.links > a:hover::after, nav.links > a.active::after{width:calc(100% - 28px);
 .radar-center{width:8px;height:8px;background:var(--gold-2); border-radius:50%; position:absolute; box-shadow:0 0 14px 4px rgba(169,122,46,0.3);}
 
 /* ---------- GENERIC SECTION ---------- */
-.section{padding:0px 0;}
+.section{padding:10px 0;}
 .section.tight{padding:90px 0;}
 .section.alt{background:var(--bg-panel); border-top:1px solid var(--line); border-bottom:1px solid var(--line);}
 
